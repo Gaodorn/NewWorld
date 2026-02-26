@@ -17,7 +17,6 @@
 | ISP | CHINANET |
 | Local IP | 192.168.110.105 |
 | Gateway | 192.168.110.1 |
-| Latency | Normal |
 
 ## Environment Profile
 
@@ -46,6 +45,8 @@
 | 2026-02-26 18:50 | Health Check | Pass |
 | 2026-02-26 18:52 | Config Sync | Complete |
 | 2026-02-26 18:53 | Index Update | Done |
+| 2026-02-26 19:20 | Session Init | Active |
+| 2026-02-26 19:20 | Identity Query | Logged |
 
 ---
 *Auto-generated documentation*
